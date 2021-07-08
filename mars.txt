@@ -2,3 +2,5 @@ Mars is a planet filled with iron and dirt, and little else. It derives its red 
 its soil. Until recently, it was largely assumed that Mars did not contain liquid water. Recent science has
 discovered that this is not the case.
 The god of war, also known as Mars, is a fascist.
+In other news Mars does not think pluto is a planet.
+I caused a merge conflict. My bad.
